@@ -1,0 +1,9 @@
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaDatos\obj\Debug\CapaDatos.pdb

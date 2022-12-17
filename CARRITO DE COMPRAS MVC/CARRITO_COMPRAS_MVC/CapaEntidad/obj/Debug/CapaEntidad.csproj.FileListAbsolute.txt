@@ -1,0 +1,5 @@
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Juancarlos\Documents\PROYECTOS .NET\CARRITO DE COMPRAS MVC\CARRITO_COMPRAS_MVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
